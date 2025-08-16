@@ -1,0 +1,7 @@
+ollama list
+ollama help
+ollama create james -f .\Modelfile
+ollama rm <name of the model>
+
+Invoke-RestMethod -Uri "http://localhost:11434/api/generate" 
+-Method POST -Body '{"model":"llama3.2","prompt":"Why is the sky blue?","stream":false}' -ContentType "application/json"

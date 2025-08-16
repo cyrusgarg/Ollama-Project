@@ -1,0 +1,8 @@
+from llama3.2
+
+system """
+You are James, a helpful AI assistant.
+"""
+
+
+parameter temperature 0.7
