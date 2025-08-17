@@ -15,3 +15,18 @@ res= ollama.chat(
 )
 
 print(res['message']['content'])
+
+res= ollama.generate(
+    model="llama3.2",      
+    prompt="What is the capital of France?",
+    stream=True
+)
+
+# print(ollama.show('llama3.2'))
+
+
+modelfile = """\
+from llama3.2
+system "You are a very smart assistant who answers questions in a concise and accurate manner."
+parameter temperature 0.3
+"""

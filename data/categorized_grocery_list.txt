@@ -1,0 +1,237 @@
+Here is the categorization and sorting of the grocery list:
+
+**Fruits**
+1. Apples
+2. Bananas
+3. Blueberries
+4. Grapes
+5. Kiwi
+6. Lemons
+7. Limes
+8. Mangoes
+9. Oranges
+10. Pineapple
+11. Raspberries
+12. Strawberries
+
+**Vegetables**
+1. Avocados (yes, avocados are a fruit and can be used as a vegetable in some dishes)
+2. Bell peppers
+3. Broccoli
+4. Carrots
+5. Cauliflower
+6. Cucumbers
+7. Jalapeños
+8. Kale
+9. Romaine lettuce
+10. Spinach
+11. Tomatoes
+12. Zucchini
+
+**Dairy**
+1. 2% milk
+2. Almond milk
+3. Butter
+4. Cheddar cheese
+5. Cream cheese
+6. Eggs (dozen)
+7. Heavy cream
+8. Margarine
+9. Mozzarella cheese
+10. Parmesan cheese
+11. Sour cream
+12. Yogurt
+
+**Meat**
+1. Bacon
+2. Beef broth
+3. Chicken breast
+4. Ground beef
+5. Pork chops
+6. Sausages
+7. Canned tuna
+8. Canned salmon
+
+**Grains**
+1. Bagels
+2. Basmati rice
+3. Breakfast cereal
+4. English muffins
+5. Flour (all-purpose)
+6. Flour tortillas
+7. Hot dog buns
+8. Hamburger buns
+9. Oats
+10. Penne pasta
+11. Quinoa
+12. Rice (long grain)
+13. Spaghetti
+14. White bread
+
+**Snacks**
+1. Chocolate bars
+2. Coffee
+3. Popcorn
+4. Pretzels
+5. Potato chips
+
+**Frozen Foods**
+1. Canned beans (black beans)
+2. Canned tomatoes
+3. Chicken broth
+4. Frozen berries
+5. Frozen corn
+6. Frozen French fries
+7. Frozen peas
+8. Frozen pizza
+9. Jalapeños
+
+**Condiments**
+1. Barbecue sauce
+2. Canola oil
+3. Honey
+4. Hot sauce
+5. Jam
+6. Ketchup
+7. Maple syrup
+8. Mayonnaise
+9. Mustard
+10. Olive oil
+11. Soy sauce
+12. Sugar
+13. Tomato paste
+
+**Bakery**
+1. Croissants
+
+**Canned Goods**
+1. Canned tuna
+2. Canned salmon
+3. Canned beans (black beans)
+4. Canned tomatoes
+5. Chickpeas
+6. Lentils
+7. Chicken broth
+8. Beef broth
+
+**Household Items**
+None
+
+**Personal Care**
+None
+
+Here is the structured format of categorized grocery items:
+
+**Fruits**
+1. Apples
+2. Bananas
+3. Blueberries
+4. Grapes
+5. Kiwi
+6. Lemons
+7. Limes
+8. Mangoes
+9. Oranges
+10. Pineapple
+11. Raspberries
+12. Strawberries
+
+**Vegetables**
+1. Avocados (yes, avocados are a fruit and can be used as a vegetable in some dishes)
+2. Bell peppers
+3. Broccoli
+4. Carrots
+5. Cauliflower
+6. Cucumbers
+7. Jalapeños
+8. Kale
+9. Romaine lettuce
+10. Spinach
+11. Tomatoes
+12. Zucchini
+
+**Dairy**
+1. 2% milk
+2. Almond milk
+3. Butter
+4. Cheddar cheese
+5. Cream cheese
+6. Eggs (dozen)
+7. Heavy cream
+8. Margarine
+9. Mozzarella cheese
+10. Parmesan cheese
+11. Sour cream
+12. Yogurt
+
+**Meat**
+1. Bacon
+2. Beef broth
+3. Chicken breast
+4. Ground beef
+5. Pork chops
+6. Sausages
+7. Canned tuna
+8. Canned salmon
+
+**Grains**
+1. Bagels
+2. Basmati rice
+3. Breakfast cereal
+4. English muffins
+5. Flour (all-purpose)
+6. Flour tortillas
+7. Hot dog buns
+8. Hamburger buns
+9. Oats
+10. Penne pasta
+11. Quinoa
+12. Rice (long grain)
+13. Spaghetti
+14. White bread
+
+**Snacks**
+1. Chocolate bars
+2. Coffee
+3. Popcorn
+4. Pretzels
+5. Potato chips
+
+**Frozen Foods**
+1. Canned beans (black beans)
+2. Canned tomatoes
+3. Chicken broth
+4. Frozen berries
+5. Frozen corn
+6. Frozen French fries
+7. Frozen peas
+8. Frozen pizza
+9. Jalapeños
+
+**Condiments**
+1. Barbecue sauce
+2. Canola oil
+3. Honey
+4. Hot sauce
+5. Jam
+6. Ketchup
+7. Maple syrup
+8. Mayonnaise
+9. Mustard
+10. Olive oil
+11. Soy sauce
+12. Sugar
+13. Tomato paste
+
+**Bakery**
+1. Croissants
+
+**Canned Goods**
+1. Canned tuna
+2. Canned salmon
+3. Canned beans (black beans)
+4. Canned tomatoes
+5. Chickpeas
+6. Lentils
+7. Chicken broth
+8. Beef broth
