@@ -1,0 +1,5 @@
+//ignore the env file
+# This is a comment line
+# Ignore the .env file                      
+.env
+venv/
