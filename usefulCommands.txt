@@ -9,3 +9,6 @@ Invoke-RestMethod -Uri "http://localhost:11434/api/generate"
 Langchain
 RAG
 ollama
+
+
+streamlit run .\pdf-rag-streamlit.py
