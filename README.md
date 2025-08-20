@@ -1,7 +1,7 @@
-## 📌 REPO Overview
+## 📌 Overview
 This project is a hands-on exploration of Ollama — a tool for running large language models locally. It demonstrates how to set up custom models, process text, and integrate them with Python for building practical AI-powered applications.
 
-## 📌 REPO Includes
+## 📌 Repo Includes
 -Working with Modelfiles to create and customize Ollama models
 -Streaming responses from models using Python requests
 -Experimenting with PDF ingestion and retrieval-augmented generation (RAG)
@@ -17,7 +17,7 @@ This project is a hands-on exploration of Ollama — a tool for running large la
 **Frontend development:** HTML + CSS responsive design
 
 ## 🛠️ Technologies Used
-**Python**
+**Python**\n
 **Ollama**(LLMs Manager)
 **LangChain**
 **Git/GitHub**
@@ -45,10 +45,9 @@ pip install -r requirements.txt
 ```bash
 ollama run llama3.2
 ```
-5. **Run the Development Server:**
+5. **Run the Python file:**
 
 ```bash
-python stream
+python pdf-rag-streamlit.py
 ```
-**SITE HOSTED ON:**
-http://[2605:fd00:4:1001:f816:3eff:fe39:c1b6]/authors/
+
