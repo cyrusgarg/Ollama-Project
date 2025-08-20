@@ -17,10 +17,10 @@ This project is a hands-on exploration of Ollama — a tool for running large la
 **Frontend development:** HTML + CSS responsive design
 
 ## 🛠️ Technologies Used
--**Python**
--**Ollama**(LLMs Manager)
--**LangChain**
--**Git/GitHub**
+- **Python**-
+- **Ollama**(LLMs Manager)-
+- **LangChain**-
+- **Git/GitHub**-
 
 ## 🧪 Running the Project Locally
 **Install Ollama on your system**
