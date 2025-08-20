@@ -2,10 +2,10 @@
 This project is a hands-on exploration of Ollama — a tool for running large language models locally. It demonstrates how to set up custom models, process text, and integrate them with Python for building practical AI-powered applications.
 
 ## 📌 Repo Includes
--Working with Modelfiles to create and customize Ollama models
--Streaming responses from models using Python requests
--Experimenting with PDF ingestion and retrieval-augmented generation (RAG)
--A simple portfolio-style frontend (HTML/CSS/JS) that can be extended to interact with models
+- Working with Modelfiles to create and customize Ollama models
+- Streaming responses from models using Python requests
+- Experimenting with PDF ingestion and retrieval-augmented generation (RAG)
+- A simple portfolio-style frontend (HTML/CSS/JS) that can be extended to interact with models
 
 ## 🚀 Features
 **Work with Ollama models:** creating and managing custom model builds
